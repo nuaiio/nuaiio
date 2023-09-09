@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuaiio from NUAI.io
 - 👀 I’m interested in Artificial Intelligence & Quant Finance
-- 🌱 I’m currently learning CQF
+- 🌱 I’m currently building LLM application in Venture Capital
 - 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me hello@nuai.io
 
